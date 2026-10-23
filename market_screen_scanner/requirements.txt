@@ -1,0 +1,2 @@
+-r ../requirements-bot.txt
+pyinstaller>=6,<7
